@@ -1,0 +1,23 @@
+{
+  "name": "party",
+  "version": "4.0.5",
+  "description": "friends party project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "liza",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "standard": "^6.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aissatoum/firstNode"
+  },
+  "keywords": [
+    "partytime"
+  ]
+}

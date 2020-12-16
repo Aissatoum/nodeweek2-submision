@@ -1,0 +1,64 @@
+{
+    "workers":[
+        {
+            "name":"Latoya Pittman",
+            "id":1,
+            "salary":56000,
+            "department":"Health"
+        },
+        {
+            "name":"Ryan Gutrapaly",
+            "id":2,
+            "salary":58000,
+            "department":"Physics Teacher"
+        },
+        {
+            "name":"Daniel Lorenzo",
+            "id":3,
+            "salary":60000,
+            "department":"Fire Fighter"
+        },
+        {
+            "name":"Jamie Peppa",
+            "id":4,
+            "salary":32000,
+            "department":"secretary"
+        },
+        {
+            "name":"Deshawn Johnson",
+            "id":5,
+            "salary":90000,
+            "department":"software engineer"
+        },
+        {
+            "name":"Courtney Chambers",
+            "id":6,
+            "salary":92000,
+            "department":"Stock Trader"
+        },
+        {
+            "name":"Rachid Ford",
+            "id":7,
+            "salary":115000,
+            "department":"Web Developer"
+        },
+        {
+            "name":"Rachid Harris",
+            "id":8,
+            "salary":88000,
+            "department":"Scrum Master"
+        },
+        {
+            "name":"Bagavy Reddy",
+            "id":9,
+            "salary":67500,
+            "department":"McDonal Manager"
+        },
+        {
+            "name":"Donal Richard",
+            "id":10,
+            "salary":145000,
+            "department":"IT Manager"
+        }
+    ]
+}
